@@ -1,5 +1,5 @@
 # compare_edge
-Edge Comparison of Two Social Networks
+Classifier of duplicate/unique edges in two social networks
 
 ## Introduction
 
