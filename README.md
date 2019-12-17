@@ -12,4 +12,5 @@ This software is a implementation of aSTEAM Project (Next-Generation Information
 ## How to use
   1. Input the social network information (`column 1: source node id, column 2: target node id`) 
   1. Input another social network information (`column 1: source node id, column 2: target node id`) 
-  2. Run model and save result
+  2. Compare edges of two social netowrk through running software
+  4. Save result as excel format
